@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"body{\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 1.5rem;\n}\n\nnav{\n  width: 1200px;\n  max-width: 80%;\n  margin: 0 auto;\n  text-align: center;\n}\n\na{\n  text-decoration: none;\n}\n\n.current {\n    color: green;\n  }\n\n.container {\n  width: 1400px;\n  max-width: 80%;\n  margin: 0 auto;\n}\n\n.catagory {\n  color: green;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAA,EACF,WAAW,EAAE,4BAA4B,EACzC,SAAS,EAAE,MAAM,GAClB;;AAED,AAAA,GAAG,CAAA,EACD,KAAK,EAAE,MAAM,EACb,SAAS,EAAE,GAAG,EACd,MAAM,EAAE,MAAM,EACd,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,CAAC,CAAA,EACC,eAAe,EAAE,IAAI,GACtB;;AAED,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;AAEH,AAAA,UAAU,CAAC,EACT,KAAK,EAAE,MAAM,EACb,SAAS,EAAE,GAAG,EACd,MAAM,EAAE,MAAM,GACf;;AAED,AAAA,SAAS,CAAC,EACR,KAAK,EAAE,KAAK,GACb"
+}
